@@ -77,6 +77,7 @@ Throttling ensures that a function is executed at most once every specified peri
 * *Best for:* Infinite scrolling, window resizing, game inputs.
 
 ## 📂 Project Structure
+```
 ├── public/ # Static assets 
 ├── src/
 │ ├── App.jsx # Main application logic & UI 
@@ -87,3 +88,4 @@ Throttling ensures that a function is executed at most once every specified peri
 ├── .dockerignore # Docker build exclusions 
 ├── .env.example # Environment variables documentation 
 └── package.json # Project dependencies
+```
