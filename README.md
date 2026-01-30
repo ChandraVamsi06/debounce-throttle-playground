@@ -2,9 +2,6 @@
 
 A modern, interactive React application designed to visualize and teach the core performance optimization concepts of **Debouncing** and **Throttling**.
 
-![Project Status](https://img.shields.io/badge/status-complete-success)
-![License](https://img.shields.io/badge/license-MIT-blue)
-
 ## 📖 Overview
 
 In modern frontend development, handling high-frequency user events (like typing, scrolling, or resizing) is critical for performance. Without optimization, these events can overwhelm the browser or backend APIs.
